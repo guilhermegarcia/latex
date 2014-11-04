@@ -16,12 +16,12 @@ Here's a basic table with some OT features. This will yield a '**Table 1:...**' 
 
 \centering % centralização
 \def\arraystretch{1.5} % espaçamento 1.5 para a tabela
-\begin{tabular}[c]{|rll || c : c | c |} % número de colunas, alinhamento de texto, e padrões de linhas verticais
+\begin{tabular}[c]{|rll || c : c | c |} 
 \hline 
 \multicolumn{3}{|r||}{/input/} \\ 
 \hline 
 \hline
-\HandRight & a & [candidate 1] &  &  &    \\ % marcas atribuídas normalmente com *, ! etc.
+\HandRight & a & [candidate 1] &  &  &    \\ 
 \hline
 & b & [candidate 2] &  &  &    \\
 \hline
