@@ -4,7 +4,7 @@
 
 If you're a phonologist typesetting a document, feature geometry might be one of the most time-consuming non-linear representations. OK, you rarely need to lay out the whole structure in a paper, but you might want to have it for class handouts/slides, for example. Also, having the *whole thing* is the quickest way to get different parts later on.
 
-The idea here is to use the ```tikz``` package, which is way more intuitive than ```pst-asr``` (the same goes for the documentation). If you're familiar with ```tiktz```, you probably know that you can create symmetric or asymmetric structures, which allows you to typeset syntax and prosody, respectively (the ```\draw``` function is great for prosodic representations). The 'problem' is that connecting lines in asymmetric representations do not meet at a single point. The structure below resolves the problem by manually setting coordinates so that all lines *meet*---as you'd expect in a syntactic tree.
+The idea here is to use the ```tikz``` package, which is way more intuitive than ```pst-asr``` (the same goes for the documentation). If you're familiar with ```tiktz```, you probably know that you can create symmetric or asymmetric structures, which allows you to typeset syntax and prosody, respectively (the ```\draw``` function is great for prosodic representations). The 'problem' is that connecting lines in asymmetric representations do not meet at a single point. The structure below resolves the problem by manually setting coordinates so that all lines *meet*—as you'd expect in a syntactic tree.
 
 Finally, you'll notice I link feature geometry to prosody here. This is, again, aimed at students, who may find it clarifying as far as representations go.
 
