@@ -9,7 +9,7 @@ The idea here is to use the ```tikz``` package, which is way more intuitive than
 Finally, you'll notice I link feature geometry to prosody here. This is, again, aimed at students, who may find it clarifying as far as representations go.
 
 
-```
+```{latex}
 % Created by Guilherme D. Garcia (McGill)
 
 \documentclass[10pt]{article}
