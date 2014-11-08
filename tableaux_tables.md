@@ -6,7 +6,7 @@ This is not simply about making *tableaux*. There's a package for that, and you 
 
 Here's a basic table with some OT features. This will yield a '**Table 1:...**' caption.
 
-```
+```{latex}
 ...
 \usepackage{multicol,array,arydshln,caption,tipa,bbding}
 ...
@@ -34,7 +34,7 @@ Here's a basic table with some OT features. This will yield a '**Table 1:...**' 
 
 You probably don't want to change the ```type``` of tables here, since you might have **both** trables and tableaux in your document. One solution is to elaborate a new float and give it a new type, namely, ```tableau```.
 
-```
+```{latex}
 ...
 \usepackage{cast-of} % this allows us to add a new argument to float captions
 \usepackage{tocbasic}
