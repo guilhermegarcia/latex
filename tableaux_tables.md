@@ -12,10 +12,10 @@ Here's a basic table with some OT features. This will yield a '**Table 1:...**' 
 ...
 
 \begin{document}
-\begin{table}[h]\caption{Um exemplo} % legenda do tableau/tabela
+\begin{table}[h]\caption{An example}
 
-\centering % centralização
-\def\arraystretch{1.5} % espaçamento 1.5 para a tabela
+\centering
+\def\arraystretch{1.5} % spacing 
 \begin{tabular}[c]{|rll || c : c | c |} 
 \hline 
 \multicolumn{3}{|r||}{/input/} \\ 
