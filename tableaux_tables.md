@@ -1,6 +1,6 @@
 ## Tableaux and tables
 
-This is not simply about making *tableaux*. There's a package for that, and you can actually make one yourself without the package. The problem is this: if you have tables **and** tableaux in your paper/thesis/dissertation, presumably you want two things: (1) you want each tableau to be numbered as **'Tableau 1:...'**; (2) you (may) want to have a list of tables and a **separate** list of tableaux. If you've tried that already, you know this won't happen automatically. So what I do here is (a) build a tableau form scratch (no package) and (b) make (1) and (2) above happen. Just follow the code and comment you have suggestions, please.
+This is not simply about making *tableaux*. There's a package for that, and you can actually make one yourself without the package. The problem is this: if you have tables **and** tableaux in your paper/thesis/dissertation, presumably you want two things: (1) you want each tableau to be numbered as **'Tableau 1:...'**; (2) you (may) want to have a list of tables and a **separate** list of tableaux. If you've tried that already, you know this won't happen automatically. So what I do here is (a) build a tableau form scratch (no package) and (b) make (1) and (2) above happen. Just follow the code and comment if you have suggestions, please.
 
 ### Basic tableau-like table
 
