@@ -32,7 +32,7 @@ Here's a basic table with some OT features. This will yield a '**Table 1:...**' 
 \end{table}
 ```
 
-You probably don't want to change the ```type``` of tables here, since you might have **both** trables and tableaux in your document. One solution is to elaborate a new float and give it a new type, namely, ```tableau```.
+You probably don't want to change the ```type``` of tables here, since you might have **both** tables and tableaux in your document. One solution is to elaborate a new float and give it a new type, namely, ```tableau```.
 
 ```{latex}
 ...
@@ -48,6 +48,6 @@ You probably don't want to change the ```type``` of tables here, since you might
 ]{lop}
 ```
 
-Finally, you every tableau in your document will begin with ```\begin{table}[h]\captionof{tableau}{An example}```, so that all tableaux have their own caption. This will keep tables and tableaux separated.
+Finally, you every tableau in your document will begin with ```\begin{table}[h]\captionof{tableau}{An example}```, so that all tableaux have their own caption. This will keep tables and tableaux separated (this also applies to table of contents). 
 
  
