@@ -115,4 +115,4 @@ Finally, you'll notice I link feature geometry to prosody here. This is, again, 
 
 #### Result
 
-The compiled pdf can be checked out [here](https://copy.com/jHh1DOXFVaTNRdRD).
+The compiled pdf can be checked out [here](https://github.com/guilhermegarcia/figures/blob/master/geom.jpg).
