@@ -48,6 +48,6 @@ You probably don't want to change the ```type``` of tables here, since you might
 ]{lop}
 ```
 
-Finally, you every tableau in your document will begin with ```\begin{table}[h]\captionof{tableau}{An example}```, so that all tableaux have their own caption. This will keep tables and tableaux separated (this also applies to table of contents). 
+Finally, every tableau in your document will begin with ```\begin{table}[h]\captionof{tableau}{An example}```, so that all tableaux have their own caption. This will keep tables and tableaux separated (this also applies to table of contents). 
 
  
