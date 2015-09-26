@@ -14,7 +14,7 @@ The function ```tex()``` will take **one** argument (your model) and will return
 ```{r}
 
 
-# Make sure you load the usual table/tabular packages:
+# Make sure you load the usual table/tabular packages in LaTeX:
 # caption, subcaption, booktabs etc.
 
 tex = function(yourModel){
