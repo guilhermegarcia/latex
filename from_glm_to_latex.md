@@ -5,11 +5,10 @@ LaTeX code that you need for your statistical table(s). It should also work for 
 you can adapt it according to your specific needs. For example, p values are given in ```R``` terms (scientific notation). You
 will want to change that.
 
-In theory, the only thing you'll want to change is the p-value column. The rest is expected to be OK. I will keep working on this,
-so please report any bugs you might encounter.
+In theory, the only thing you'll want to change is the p-value column. The rest is expected to be OK. I will keep working on this, so please report any bugs you might encounter.
 
 The function ```tex()``` will take **one** argument (your model) and will return a ```.txt``` file that you can now paste into your
-```.tex``` file. The file is named ```output.txt```, and it already contains all the necessary lines for tables in LaTeX.
+```.tex``` file. The file is named ```output.txt```, and it already contains all the necessary lines for tables in LaTeX. There are several alternatives available (```Hmisc```, for example).
 
 
 ```{r}
