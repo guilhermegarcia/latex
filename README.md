@@ -5,7 +5,7 @@
 
 The focus here is to share some LaTeX coding to produce non-linear representations in Linguistics (mostly Phonology), among other things. I'll also add some packages (i.e., documentation files/links) that are useful in Linguistics—if you're starting to use LaTeX, this may be useful.
 
-More basic scripts are found at my [blog](http://www.lingformat.wordpress.com). There, you'll find syntactic trees, phonetic transcription etc. If you're looking for a way to **count words** in a tex document, visit [this](http://app.uio.no/ifi/texcount/) page.
+More basic scripts are found on my [blog](http://www.lingformat.wordpress.com). There, you'll find syntactic trees, phonetic transcription etc. If you're looking for a way to **count words** in a tex document, visit [this](http://app.uio.no/ifi/texcount/) page.
 
 ## Useful links
 [My blog on LaTeX for linguists](http://www.lingformat.wordpress.com)
