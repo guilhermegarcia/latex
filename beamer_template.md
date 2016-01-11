@@ -56,7 +56,7 @@ the frame number. There are some other subtle/minor differences as well.
   \begin{beamercolorbox}[wd=.6\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
     \usebeamerfont{title in head/foot}{\color{black!20}{\insertshorttitle}}\end{beamercolorbox}%
   \begin{beamercolorbox}[wd=.15\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
-    {\color{black!20}{\insertframenumber{} / \inserttotalframenumber}}
+    {\color{black!20}{\insertframenumber{} of \inserttotalframenumber}}
   \end{beamercolorbox}}%
   \vskip0pt%
 }
