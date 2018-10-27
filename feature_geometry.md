@@ -28,7 +28,7 @@ Finally, you'll notice I link feature geometry to prosody here. This is, again, 
     
 \title{Prosody \& Feature Geometry in {\LaTeX}}
 \date{}
-\author{\href{http://www.guilherme.ca}{Guilherme D. Garcia}\\ \emph{McGill University}}
+\author{\href{http://guilhermegarcia.github.io}{Guilherme D. Garcia}\\ \emph{Ball State University}}
 \begin{document}
 \maketitle
 \thispagestyle{empty}
