@@ -8,9 +8,10 @@ The focus here is to share some LaTeX coding to produce non-linear representatio
 More basic scripts are found on my [blog](http://www.lingformat.wordpress.com). There, you'll find syntactic trees, phonetic transcription etc. If you're looking for a way to **count words** in a tex document, visit [this](http://app.uio.no/ifi/texcount/) page.
 
 ## Useful links
-[My blog on LaTeX for linguists](http://www.lingformat.wordpress.com)
 
-[Word count in LaTeX](http://app.uio.no/ifi/texcount/)
+[LaTeX for phonologists](https://guilhermegarcia.github.io/latex_phonology.html)
+
+[My blog on LaTeX for linguists](http://www.lingformat.wordpress.com)
 
 [All symbols in LaTeX](http://ctan.mirror.rafal.ca/info/symbols/comprehensive/symbols-letter.pdf)
 
